@@ -1,4 +1,4 @@
 # sampledemo
 This is my first repository
 <br>
-Author-Akshat Priyam
+Author-Akshat Priyam (coder)
